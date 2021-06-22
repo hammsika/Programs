@@ -25,7 +25,8 @@ class lcmwhile
         }
 
         sc.close();
-
+//lcm
+//jjj
 
     }
 
