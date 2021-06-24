@@ -15,6 +15,7 @@ class multiplicationtable1
                 System.out.println(n + "*" +j +"="+(n*j));
             }
         sc.close();
+            System.out.println("Done");
     }
 
 }
